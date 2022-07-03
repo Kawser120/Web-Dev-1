@@ -17,6 +17,7 @@ h3 {
 
 section {
     display: flex;
+    margin-bottom: 100px;
 }
 
 .half-width {
@@ -40,4 +41,8 @@ section {
 
 .top-banner {
     background-color: whitesmoke
+}
+
+.Dream-big {
+    background-color: whitesmoke;
 }
